@@ -98,3 +98,9 @@ install ipykernel
 ```
 pip install ipykernel
 ```
+
+data drift:
+when your dataset starts gets change we will call it as data drift
+
+
+## write a function to get training file path from artifact dirs
